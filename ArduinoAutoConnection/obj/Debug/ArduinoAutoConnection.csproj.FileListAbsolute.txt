@@ -1,0 +1,10 @@
+C:\Users\mehme\source\repos\ArduinoAutoConnection\ArduinoAutoConnection\bin\Debug\ArduinoAutoConnection.exe.config
+C:\Users\mehme\source\repos\ArduinoAutoConnection\ArduinoAutoConnection\bin\Debug\ArduinoAutoConnection.exe
+C:\Users\mehme\source\repos\ArduinoAutoConnection\ArduinoAutoConnection\bin\Debug\ArduinoAutoConnection.pdb
+C:\Users\mehme\source\repos\ArduinoAutoConnection\ArduinoAutoConnection\obj\Debug\ArduinoAutoConnection.csprojAssemblyReference.cache
+C:\Users\mehme\source\repos\ArduinoAutoConnection\ArduinoAutoConnection\obj\Debug\ArduinoAutoConnection.Form1.resources
+C:\Users\mehme\source\repos\ArduinoAutoConnection\ArduinoAutoConnection\obj\Debug\ArduinoAutoConnection.Properties.Resources.resources
+C:\Users\mehme\source\repos\ArduinoAutoConnection\ArduinoAutoConnection\obj\Debug\ArduinoAutoConnection.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\ArduinoAutoConnection\ArduinoAutoConnection\obj\Debug\ArduinoAutoConnection.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\ArduinoAutoConnection\ArduinoAutoConnection\obj\Debug\ArduinoAutoConnection.exe
+C:\Users\mehme\source\repos\ArduinoAutoConnection\ArduinoAutoConnection\obj\Debug\ArduinoAutoConnection.pdb
