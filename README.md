@@ -16,7 +16,3 @@ Değer kısmında buna benzer bir örnek olacak. Bu kısımdan VID ve PID değer
 USB\VID_XXXX&PID_YYYY\7&47CCC76&0&2
 
 Uygulamayı çalıştırın ve bağlantının kurulduğunu göreceksiniz.
-
-Ayrıntılı anlatım için siteyi ziyaret edebilirsiniz.
-
-https://info4idea.com/c-ile-arduinoya-otomatik-baglanti-kurma
